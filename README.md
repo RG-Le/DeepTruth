@@ -1,4 +1,4 @@
-# as
+# DeepTruth: A Deepfake Video Detection Application
 
 This Repository Contains the basic code files needed to run the deepfake detection software.
 
